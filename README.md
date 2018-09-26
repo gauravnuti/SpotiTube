@@ -2,11 +2,11 @@
 A Python application that grabs Playlists/Albums from Spotify and downloads the songs from YouTube.
 Needs URI of Playlist/Album.
 
-# INSTALLATION:
+## INSTALLATION:
 
-sudo pip install youtube-dl
-sudo pip install spotipy
+`sudo pip install youtube-dl`
+`sudo pip install spotipy`
 
-# HOW TO USE:
+## HOW TO USE:
 
-python SpotiTube.py
+`python SpotiTube.py`
